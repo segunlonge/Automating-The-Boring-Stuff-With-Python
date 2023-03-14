@@ -1,0 +1,6 @@
+Password: XpmYe4!(r;X)=r
+
+Account SID: AC8e86f44fe2e1f4dd05b87bb1053c6f66
+Auth Token: d027aa0c54ff50853f62848262ddb3a9
+
+Twilio Phone Number: +14322871536

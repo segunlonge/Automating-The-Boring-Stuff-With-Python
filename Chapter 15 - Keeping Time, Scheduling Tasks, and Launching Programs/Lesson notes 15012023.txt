@@ -1,0 +1,54 @@
+Dictionary
+
+key:pair
+img = {
+"src" : "url"
+}
+
+
+print(img['src' )
+-----------------------------------
+HTML tag
+<tag property="" property2=""></tag>
+
+
+BS4:
+
+
+find_all -- list of tags where each tag is in a dictionary like format 
+means: eachproperty in the tag is key, value is the value
+
+image = <img src="">  #BS4 created object
+
+image['src']
+
+
+-------------
+images  list of tags
+images[i] tag whose properties can be accessed like a dictionary
+
+--------------------------------
+there are two things
+img url
+data of that image
+to get data: we do requests.get(url)
+
+-----
+saving any file
+
+with open(filename, 'wb') as f:
+	f.
+--------------------------
+
+websitename = "http://nonadventures.com/"
+evaluate the string in a variable as a function
+
+if 
+
+
+
+
+
+
+
+
